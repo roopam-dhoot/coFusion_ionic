@@ -1,0 +1,7 @@
+{
+    "http://jsonserver1.herokuapp.com//**":{
+        "target":"http://jsonserver1.herokuapp.com/",
+        "secured":false,
+        "loglevel":"debug"
+    }
+}
